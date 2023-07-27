@@ -1,0 +1,30 @@
+
+/* stop watch program */
+
+ #maincontainer{
+    border: 2px solid green;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(219, 243, 5);
+   
+    
+}
+.timerbtn{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 23px;
+    margin: 20px 0px;
+    cursor: pointer;
+    background-color: black;
+    color: aliceblue;
+    border: 2px solid rgb(251, 252, 252);
+    padding: 6px;
+    width: 84px;
+
+}
+#timecontainer{
+    font-size:  64px;
+    color: blueviolet;
+    margin: 23px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 

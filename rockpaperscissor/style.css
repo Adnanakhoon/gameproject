@@ -1,0 +1,41 @@
+/* Rock Paper Scissor */
+
+
+.legend{
+font-size: 24px;
+border: 1px solid rgba(92, 92, 1, 0.208);
+background-color: black;
+color: wheat;
+}
+
+
+#maincont{
+    border: 2px solid rgb(147, 104, 220);
+    border-radius: 10px;
+    padding: 10px;
+    width: 400px;
+    background-color: black;
+    margin: 50px auto 0px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+.btn{
+   margin: 10px 20px;
+   cursor: pointer;
+   color: brown;
+   background-color: azure;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 21px;
+    border-radius: 5px;
+
+}
+
+#player{
+    color: rgb(249, 6, 47);
+}
+#computer{
+    color: rgb(218, 222, 3);
+} 
